@@ -12,9 +12,8 @@
 </picture>
 -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christoff-linde&show_icons=true&layout=donut&theme=catppuccin_mocha&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,shell)
-
-![Christoff's Stats](https://github-readme-stats.vercel.app/api?username=christoff-linde&show_icons=true&theme=catppuccin_mocha&hide_border=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christoff-linde&show_icons=true&layout=donut&theme=catppuccin_mocha&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,shell) 
+ ![Christoff's Stats](https://github-readme-stats.vercel.app/api?username=christoff-linde&show_icons=true&theme=catppuccin_mocha&hide_border=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage&include_all_commits=true)
 <!--
 <picture>
   <source
