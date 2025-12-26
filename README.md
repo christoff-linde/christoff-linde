@@ -9,6 +9,8 @@
   </picture>
 </a>
 
+[![Christoff's GitHub stats](https://github-readme-stats.vercel.app/api?username=christoff-linde)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <!--
