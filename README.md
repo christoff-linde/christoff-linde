@@ -8,9 +8,6 @@
     <img alt="Dashboard stats of @christoff-linde" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=38110658&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
-
-[![Christoff's GitHub stats](https://github-readme-stats.vercel.app/api?username=christoff-linde)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <!--
